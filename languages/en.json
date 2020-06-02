@@ -1,0 +1,66 @@
+{
+  "landing": {
+    "body": {
+      "p1": "To deliver the best possible experience, we and our partners use technologies such as cookies to [[purposes_1_name_lower]]. These technologies may collect personal data such as IP address and browsing behaviour to provide [[stacks_42_name_lower]]. [[stacks_1_description_none]]",
+      "p2": "Click below to consent to the use of these technologies and the processing on this site and on other sites where we and our partners operate. Some companies may process personal data on the basis of legitimate interest. Alternately, you can review your preferences and make more granular choices, including exercising your right to object to processing based on legitimate interest. You can change your mind at any time by visiting our privacy policy."
+    },
+    "cta": "ACCEPT & CONTINUE",
+    "reviewLink": "Review Purposes & Companies",
+     "seeMoreLink": {
+      "seeMore": "see more",
+      "seeLess": "see less"
+    },
+    "title": "We value your privacy."
+  },
+  "review": {
+    "tabs": {
+      "companies": {
+        "header": {
+          "consent": "Purposes that require your consent",
+          "feature": "Features",
+          "legInt": "Legitimate interest purposes that don't require your consent, but you can opt out",
+          "specialPurpose": "Legitimate interest purposes that don't require your consent",
+          "specialFeature": "Special Features"
+        },
+        "privacyPolicyLink": "View privacy policy",
+        "tabTitle": "Companies"
+      },
+      "purposes": {
+        "header": {
+          "consent": "Companies that require your consent",
+          "feature": "Companies that may use this",
+          "legInt": "Companies Legitimate interest purposes that don't require your consent, but you can opt out",
+          "specialFeature": "Companies that may use this if you opt in",
+          "specialPurpose": "Companies using legitimate interest that don't require your consent"
+        },
+        "label": {
+          "feature": "feature",
+          "purpose": "purpose",
+          "specialFeature": "special feature",
+          "specialPurpose": "special purpose"
+        },
+        "legalDescription": {
+          "hide": "hide",
+          "show": "more"
+        },
+        "companyList": {
+          "hide": "Hide Companies",
+          "no": "No Companies",
+          "show": "Show Companies"
+        },
+        "tabTitle": "Data Purposes"
+      }
+    },
+    "buttons": {
+      "allow": "allow",
+      "deny": "deny",
+      "optOut": "Opt Out"
+    },
+    "footer": {
+      "allowAll": "Allow All",
+      "cta": "SAVE & CONTINUE",
+      "denyAll": "Deny All"
+    },
+    "introBody": "Some companies may process personal data based on their legitimate interest. Below you can review and make choices regarding your personal data, including exercising your right to object to processing based on legitimate interest."
+  }
+}
